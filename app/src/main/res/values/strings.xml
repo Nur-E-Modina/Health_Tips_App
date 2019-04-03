@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Health_Tips</string>
+    <string name="text_name">Click Here</string>
+    <string name="text2_name">Please Select a Disease</string>
+
+    <string-array name="Disease_names">
+        <item>High_Blood_Pressure</item>
+        <item>High_Cholesterol</item>
+        <item>Heart_Attack</item>
+        <item>Diabetes</item>
+
+
+    </string-array>
+
+</resources>
